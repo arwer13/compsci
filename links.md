@@ -11,3 +11,6 @@ Here is a collection of links to various comp-sci learning resources.
 
 # Linux
 - [Linux Survival](http://linuxsurvival.com)
+
+# Git tutorials
+ - [Contributing to someone's repository](http://kbroman.org/github_tutorial/pages/fork.html)
