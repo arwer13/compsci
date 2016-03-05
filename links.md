@@ -2,12 +2,19 @@
 Here is a collection of links to various comp-sci learning resources.
 
 # Coding exercises
+- [46 Simple Python Exercises] (http://www.ling.gu.se/~lager/python_exercises.html)
+- [CodingBat] (http://codingbat.com/)
 - [Introductory CS exercises, easier than Proj. Euler] (https://adriann.github.io/programming_problems.html)
-- [Project Euler - mathematical] (https://projecteuler.net/archives)
-
+- [Project Euler - mathematical](https://projecteuler.net/archives)
+- [StackOverflow - beginning exercise suggestions] (http://stackoverflow.com/questions/5208268/very-small-programs-to-improve-programming-skills)
+- [Reddit - Daily Programmer] (https://www.reddit.com/r/dailyprogrammer)
+- [Sphere Online Judge] (http://www.spoj.com/)
+-
 # Big interactive online resources
 ## Free
 - [Khan Academy](http://khanacademy.org/)
+- [Coursera](https://www.coursera.org/)
+- [EdX](https://www.edx.org/)
 
 ## Paid
 - [Code School](https://www.codeschool.com/) Better for people who is already familiar with some technology. 
@@ -16,5 +23,21 @@ Here is a collection of links to various comp-sci learning resources.
 # Linux
 - [Linux Survival](http://linuxsurvival.com)
 
-# Git tutorials
+# Tutorials
+
+## Git 
  - [Contributing to someone's repository](http://kbroman.org/github_tutorial/pages/fork.html)
+ - [CoderDojo Kata - Git] (http://kata.coderdojo.com/wiki/GIT_Tutorials)
+
+## HTML
+ - [CoderDojo Kata - HTML] (http://kata.coderdojo.com/wiki/HTML_Tutorials)
+
+## Javascript
+
+ - [CoderDojo Kata - JavaScript] (http://kata.coderdojo.com/wiki/Javascript_Tutorials)
+ 
+## Python
+ - [CoderDojo Kata - Python] (http://kata.coderdojo.com/wiki/Python_Tutorials)
+
+## Web servers
+ - [CoderDojo Kata - Web Servcers] (http://kata.coderdojo.com/wiki/Web_Servers_Tutorials)
