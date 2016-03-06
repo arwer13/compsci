@@ -50,6 +50,7 @@ Here is a collection of links to various comp-sci learning resources.
 
 ## Python
  - [CoderDojo Kata - Python] (http://kata.coderdojo.com/wiki/Python_Tutorials)
+ - Python RegExs: [1](http://stackoverflow.com/questions/23940520/removing-lines-from-a-text-file-using-python-and-regular-expressions); [2] (http://stackoverflow.com/questions/17221348/using-python-to-remove-all-lines-matching-regex); [3] (http://stackoverflow.com/questions/12925191/regex-python-remove-all-lines-beginning-with-a)
 
 ## Solr / Lucene
  - [Solr Quickstart] (https://lucene.apache.org/solr/quickstart.html)
