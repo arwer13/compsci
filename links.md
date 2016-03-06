@@ -9,7 +9,7 @@ Here is a collection of links to various comp-sci learning resources.
 - [StackOverflow - beginning exercise suggestions] (http://stackoverflow.com/questions/5208268/very-small-programs-to-improve-programming-skills)
 - [Reddit - Daily Programmer] (https://www.reddit.com/r/dailyprogrammer)
 - [Sphere Online Judge] (http://www.spoj.com/)
--
+
 # Big interactive online resources
 ## Free
 - [Khan Academy](http://khanacademy.org/)
@@ -35,9 +35,24 @@ Here is a collection of links to various comp-sci learning resources.
 ## Javascript
 
  - [CoderDojo Kata - JavaScript] (http://kata.coderdojo.com/wiki/Javascript_Tutorials)
+
+## Linux
+
+### Grep
+ - [Bash guide - RegExs - Grep examples] (http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html)
+ - [15 Practical Grep Command Examples In Linux / UNIX] (http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/)
+ - [How to use grep and cut in script to obtain website URLs from an HTML file] (http://unix.stackexchange.com/questions/181254/how-to-use-grep-and-cut-in-script-to-obtain-website-urls-from-an-html-file)
+ - [Linux and Unix grep command] (http://www.computerhope.com/unix/ugrep.htm)
  
+## Protoyping
+
+- [What is the best web prototyping/mockup tool?](https://www.quora.com/What-is-the-best-web-prototyping-mockup-tool)
+
 ## Python
  - [CoderDojo Kata - Python] (http://kata.coderdojo.com/wiki/Python_Tutorials)
+
+## Solr / Lucene
+ - [Solr Quickstart] (https://lucene.apache.org/solr/quickstart.html)
 
 ## Web servers
  - [CoderDojo Kata - Web Servcers] (http://kata.coderdojo.com/wiki/Web_Servers_Tutorials)
