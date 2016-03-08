@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# IDEA
+*/.idea
+
+# Data directories
+vocabulary/data
+**.sqlite3
+**.backup
+
