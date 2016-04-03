@@ -57,3 +57,21 @@ Here is a collection of links to various comp-sci learning resources.
 
 ## Web servers
  - [CoderDojo Kata - Web Servcers] (http://kata.coderdojo.com/wiki/Web_Servers_Tutorials)
+
+# User Experiences
+
+- http://uxmastery.com/how-to-get-started-in-ux-design/
+- https://www.youtube.com/watch?v=Nj6x01wg2WA
+- http://theuxintern.com/
+- https://www.nngroup.com/articles/ten-usability-heuristics/
+- usability.gov
+- http://www.typeform.com/
+- http://www.jeffgothelf.com/blog/lean-ux-book/#sthash.O06Rb4aP.dpbs
+- https://uxmag.com/articles/using-proto-personas-for-executive-alignment/
+- http://www.uie.com/brainsparks/2007/11/14/crappy-personas-vs-robust-personas/
+- http://uifaces.com/
+- http://www.slideshare.net/edanzico/user-interview-techniques
+- http://undercoverux.com/contents.php
+- http://www.smashingmagazine.com/2011/12/16/a-guide-to-heuristic-website-reviews/
+- https://hbr.org/2015/06/the-internet-of-things-is-changing-how-we-manage-customer-relationships?
+utm_content=bufferc1710&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer (journey mapping info)
